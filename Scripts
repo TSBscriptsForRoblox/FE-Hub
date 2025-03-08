@@ -2,7 +2,7 @@
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Hello!";
-    Text = "Thanks for using My Script :) from Raz!";
+    Text = discord.gg/xv8B8nDBgW!";
     Duration = 5;
 })
 
